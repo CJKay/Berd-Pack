@@ -1,0 +1,13 @@
+name: "Pull request"
+on:
+  pull_request:
+    branches:
+      - "main"
+jobs:
+  lint-commit-messages:
+    name: "Lint commit messages"
+    uses: "./.github/workflows/lint-commit-messages.yml"
+  build-modpacks:
+    name: "Build modpacks"
+    needs: lint-commit-messages
+    uses: "./.github/workflows/build-modpacks.yml"

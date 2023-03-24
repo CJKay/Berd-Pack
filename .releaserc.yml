@@ -1,0 +1,35 @@
+preset: conventionalcommits
+repositoryUrl: "https://github.com/CJKay/Berd-Pack.git"
+branches:
+  - main
+plugins:
+  - - "@semantic-release/commit-analyzer"
+    - preset: conventionalcommits
+  - - "@semantic-release/release-notes-generator"
+    - preset: conventionalcommits
+  - "@semantic-release/changelog"
+  - - "@google/semantic-release-replace-plugin"
+    - replacements:
+        - files:
+            - "pack.toml"
+          from: '^version = ".+?"$'
+          to: 'version = "${nextRelease.version}"'
+          countMatches: true
+          results:
+            - file: "pack.toml"
+              hasChanged: true
+              numMatches: 1
+              numReplacements: 1
+  - - "@semantic-release/git"
+    - assets:
+        - "CHANGELOG.md"
+        - "pack.toml"
+  - - "@semantic-release/exec"
+    - prepareCmd: "packwiz curseforge export --side client -o Berd-Pack-${nextRelease.version}-Client.zip"
+  - - "@semantic-release/exec"
+    - prepareCmd: "packwiz curseforge export --side server -o Berd-Pack-${nextRelease.version}-Server.zip"
+  - - "@semantic-release/exec"
+    - prepareCmd: "packwiz modrinth export -o Berd-Pack-${nextRelease.version}.mrpack"
+  - - "@semantic-release/github"
+    - assets:
+        - "Berd-Pack-*.{zip,mrpack}"
