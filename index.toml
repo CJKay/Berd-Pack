@@ -13,5 +13,9 @@ file = "mods/clumps.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-view.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/farsight.pw.toml"
 metafile = true
