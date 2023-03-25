@@ -3,3 +3,7 @@ hash-format = "sha256"
 [[files]]
 file = "mods/ai-improvements.pw.toml"
 metafile = true
+
+[[files]]
+file = "mods/alternate-current.pw.toml"
+metafile = true
