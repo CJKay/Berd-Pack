@@ -17,5 +17,9 @@ file = "mods/dynamic-view.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/entityculling.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/farsight.pw.toml"
 metafile = true
