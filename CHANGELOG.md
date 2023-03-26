@@ -1,3 +1,10 @@
+## [2.1.6](https://github.com/CJKay/Berd-Pack/compare/v2.1.5...v2.1.6) (2023-03-26)
+
+
+### Performance Improvements
+
+* **mods:** add LazyDFU ([0b38650](https://github.com/CJKay/Berd-Pack/commit/0b38650f40b262c4dc40fff9f185465f573377c6))
+
 ## [2.1.5](https://github.com/CJKay/Berd-Pack/compare/v2.1.4...v2.1.5) (2023-03-26)
 
 
