@@ -37,5 +37,9 @@ file = "mods/fastworkbench.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/ferritecore.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/placebo.pw.toml"
 metafile = true
