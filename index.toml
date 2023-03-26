@@ -29,5 +29,9 @@ file = "mods/fastfurnace.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/fastsuite.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/placebo.pw.toml"
 metafile = true
