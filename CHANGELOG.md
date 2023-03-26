@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/CJKay/Berd-Pack/compare/v1.0.0...v1.0.1) (2023-03-26)
+
+
+### Performance Improvements
+
+* **mods:** add AI Improvements ([f42ea28](https://github.com/CJKay/Berd-Pack/commit/f42ea28c770dd495f63eb1d409c5b9b4bb1bbf4b))
+
 ## 1.0.0 (2023-03-26)
 
 
