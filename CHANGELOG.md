@@ -1,3 +1,10 @@
+## [2.1.11](https://github.com/CJKay/Berd-Pack/compare/v2.1.10...v2.1.11) (2023-03-26)
+
+
+### Performance Improvements
+
+* **mods:** add Starlight ([d7360c6](https://github.com/CJKay/Berd-Pack/commit/d7360c63b36f3aeb2cdee697944ecdb235001ca8))
+
 ## [2.1.10](https://github.com/CJKay/Berd-Pack/compare/v2.1.9...v2.1.10) (2023-03-26)
 
 
