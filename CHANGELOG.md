@@ -1,3 +1,10 @@
+## [2.1.2](https://github.com/CJKay/Berd-Pack/compare/v2.1.1...v2.1.2) (2023-03-26)
+
+
+### Performance Improvements
+
+* **mods:** add Entity Collision FPS Fix ([b2ad9d5](https://github.com/CJKay/Berd-Pack/commit/b2ad9d5dc0508064b46ac4691d720784bc7320c8))
+
 ## [2.1.1](https://github.com/CJKay/Berd-Pack/compare/v2.1.0...v2.1.1) (2023-03-26)
 
 
