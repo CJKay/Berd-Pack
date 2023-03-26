@@ -1,3 +1,10 @@
+## [2.1.12](https://github.com/CJKay/Berd-Pack/compare/v2.1.11...v2.1.12) (2023-03-26)
+
+
+### Performance Improvements
+
+* **mods:** add Smooth Chunk Save ([8fd20ab](https://github.com/CJKay/Berd-Pack/commit/8fd20abb4846bd113a1c0e6e8f75a883b4a824f0))
+
 ## [2.1.11](https://github.com/CJKay/Berd-Pack/compare/v2.1.10...v2.1.11) (2023-03-26)
 
 
