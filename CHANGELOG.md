@@ -1,3 +1,10 @@
+## [2.0.1](https://github.com/CJKay/Berd-Pack/compare/v2.0.0...v2.0.1) (2023-03-26)
+
+
+### Performance Improvements
+
+* **mods:** add Clumps ([59c8325](https://github.com/CJKay/Berd-Pack/commit/59c83255221857c872474f9712dd02b50d02455e))
+
 ## [2.0.0](https://github.com/CJKay/Berd-Pack/compare/v1.0.1...v2.0.0) (2023-03-26)
 
 
