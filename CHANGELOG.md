@@ -1,3 +1,10 @@
+## [2.1.0](https://github.com/CJKay/Berd-Pack/compare/v2.0.2...v2.1.0) (2023-03-26)
+
+
+### Features
+
+* **mods:** add Farsight ([a816816](https://github.com/CJKay/Berd-Pack/commit/a816816777b86de6e8dd41fd4fcdea3a62854ad2))
+
 ## [2.0.2](https://github.com/CJKay/Berd-Pack/compare/v2.0.1...v2.0.2) (2023-03-26)
 
 
