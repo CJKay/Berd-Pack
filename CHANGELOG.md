@@ -1,3 +1,10 @@
+## [2.1.5](https://github.com/CJKay/Berd-Pack/compare/v2.1.4...v2.1.5) (2023-03-26)
+
+
+### Performance Improvements
+
+* **mods:** add Canary ([cc3ad63](https://github.com/CJKay/Berd-Pack/commit/cc3ad6359591f93c1c8f867e9651c9dc1c7206b2))
+
 ## [2.1.4](https://github.com/CJKay/Berd-Pack/compare/v2.1.3...v2.1.4) (2023-03-26)
 
 
