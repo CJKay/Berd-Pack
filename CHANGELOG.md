@@ -1,3 +1,10 @@
+## [2.1.8](https://github.com/CJKay/Berd-Pack/compare/v2.1.7...v2.1.8) (2023-03-26)
+
+
+### Performance Improvements
+
+* **mods:** add Radon ([295c948](https://github.com/CJKay/Berd-Pack/commit/295c94808ecca702b93a137e604d14ba6b55647e))
+
 ## [2.1.7](https://github.com/CJKay/Berd-Pack/compare/v2.1.6...v2.1.7) (2023-03-26)
 
 
