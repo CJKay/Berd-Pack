@@ -9,6 +9,10 @@ file = "mods/alternate-current.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/attributefix.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/canary.pw.toml"
 metafile = true
 
