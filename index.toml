@@ -69,5 +69,9 @@ file = "mods/saturn.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/smooth-chunk-save.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/starlight-forge.pw.toml"
 metafile = true
