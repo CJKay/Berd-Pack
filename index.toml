@@ -51,3 +51,7 @@ metafile = true
 [[files]]
 file = "mods/placebo.pw.toml"
 metafile = true
+
+[[files]]
+file = "mods/pluto.pw.toml"
+metafile = true
