@@ -1,3 +1,10 @@
+## [2.1.7](https://github.com/CJKay/Berd-Pack/compare/v2.1.6...v2.1.7) (2023-03-26)
+
+
+### Performance Improvements
+
+* **mods:** add Pluto ([225d8d3](https://github.com/CJKay/Berd-Pack/commit/225d8d31183a7c994b40002f5852da52f6d39a2a))
+
 ## [2.1.6](https://github.com/CJKay/Berd-Pack/compare/v2.1.5...v2.1.6) (2023-03-26)
 
 
