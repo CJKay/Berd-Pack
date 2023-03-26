@@ -1,3 +1,10 @@
+## [2.0.2](https://github.com/CJKay/Berd-Pack/compare/v2.0.1...v2.0.2) (2023-03-26)
+
+
+### Bug Fixes
+
+* **mods:** include Clumps client-side ([206bbc1](https://github.com/CJKay/Berd-Pack/commit/206bbc1562e877dc72f1f3a49aa182f4af6af318))
+
 ## [2.0.1](https://github.com/CJKay/Berd-Pack/compare/v2.0.0...v2.0.1) (2023-03-26)
 
 
