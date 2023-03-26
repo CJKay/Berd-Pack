@@ -1,3 +1,10 @@
+## [2.1.9](https://github.com/CJKay/Berd-Pack/compare/v2.1.8...v2.1.9) (2023-03-26)
+
+
+### Performance Improvements
+
+* **mods:** add Rubidium ([190cac6](https://github.com/CJKay/Berd-Pack/commit/190cac61f8e1d9f9eabc2f00af706da8793020d8))
+
 ## [2.1.8](https://github.com/CJKay/Berd-Pack/compare/v2.1.7...v2.1.8) (2023-03-26)
 
 
