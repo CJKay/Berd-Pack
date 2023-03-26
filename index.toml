@@ -67,3 +67,7 @@ metafile = true
 [[files]]
 file = "mods/saturn.pw.toml"
 metafile = true
+
+[[files]]
+file = "mods/starlight-forge.pw.toml"
+metafile = true
