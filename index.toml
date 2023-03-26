@@ -63,3 +63,7 @@ metafile = true
 [[files]]
 file = "mods/rubidium.pw.toml"
 metafile = true
+
+[[files]]
+file = "mods/saturn.pw.toml"
+metafile = true
