@@ -1,3 +1,10 @@
+## [2.1.1](https://github.com/CJKay/Berd-Pack/compare/v2.1.0...v2.1.1) (2023-03-26)
+
+
+### Performance Improvements
+
+* **mods:** add Dynamic View ([11db2dc](https://github.com/CJKay/Berd-Pack/commit/11db2dcd6b2effc61d63453c2d4d3414dfb4927e))
+
 ## [2.1.0](https://github.com/CJKay/Berd-Pack/compare/v2.0.2...v2.1.0) (2023-03-26)
 
 
