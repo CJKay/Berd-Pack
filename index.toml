@@ -45,5 +45,9 @@ file = "mods/ferritecore.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/lazy-dfu-forge.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/placebo.pw.toml"
 metafile = true
