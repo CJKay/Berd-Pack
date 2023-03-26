@@ -79,3 +79,7 @@ metafile = true
 [[files]]
 file = "mods/starlight-forge.pw.toml"
 metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+metafile = true
