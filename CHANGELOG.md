@@ -1,3 +1,12 @@
+## [2.1.3](https://github.com/CJKay/Berd-Pack/compare/v2.1.2...v2.1.3) (2023-03-26)
+
+
+### Performance Improvements
+
+* **mods:** add FastFurnace ([b0e6545](https://github.com/CJKay/Berd-Pack/commit/b0e654504bc6bc1d6815b3961f2914ff9b76ec9d))
+* **mods:** add FastSuite ([97eb412](https://github.com/CJKay/Berd-Pack/commit/97eb412ded883b7a88dad7482e20f2da40213fc8))
+* **mods:** add FastWorkbench ([36d44d0](https://github.com/CJKay/Berd-Pack/commit/36d44d05a9d05b7567846bccdf9484f505eb300d))
+
 ## [2.1.2](https://github.com/CJKay/Berd-Pack/compare/v2.1.1...v2.1.2) (2023-03-26)
 
 
