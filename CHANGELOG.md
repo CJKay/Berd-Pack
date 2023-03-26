@@ -1,3 +1,10 @@
+## [2.1.13](https://github.com/CJKay/Berd-Pack/compare/v2.1.12...v2.1.13) (2023-03-26)
+
+
+### Performance Improvements
+
+* **mods:** add Attribute Fix ([c179f05](https://github.com/CJKay/Berd-Pack/commit/c179f0598952fb4ccdf09303f901f41b7fa286a9))
+
 ## [2.1.12](https://github.com/CJKay/Berd-Pack/compare/v2.1.11...v2.1.12) (2023-03-26)
 
 
