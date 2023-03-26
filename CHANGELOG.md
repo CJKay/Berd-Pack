@@ -1,3 +1,10 @@
+## [2.1.4](https://github.com/CJKay/Berd-Pack/compare/v2.1.3...v2.1.4) (2023-03-26)
+
+
+### Performance Improvements
+
+* **mods:** add FerriteCore ([8d32fa2](https://github.com/CJKay/Berd-Pack/commit/8d32fa21d42b290813bb3df5b3c94ddbf41f847c))
+
 ## [2.1.3](https://github.com/CJKay/Berd-Pack/compare/v2.1.2...v2.1.3) (2023-03-26)
 
 
