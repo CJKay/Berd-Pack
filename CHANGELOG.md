@@ -1,3 +1,11 @@
+## [2.2.0](https://github.com/CJKay/Berd-Pack/compare/v2.1.13...v2.2.0) (2023-03-27)
+
+
+### Features
+
+* **mods:** add Xaero's Minimap ([e7ca2ff](https://github.com/CJKay/Berd-Pack/commit/e7ca2ff039e2fff1b1c195a8c9a89a5d3bfcd98c))
+* **mods:** add Xaero's World Map ([33ade44](https://github.com/CJKay/Berd-Pack/commit/33ade4443dff2039bc086fc44e6f6a9c5390e3a2))
+
 ## [2.1.13](https://github.com/CJKay/Berd-Pack/compare/v2.1.12...v2.1.13) (2023-03-26)
 
 
