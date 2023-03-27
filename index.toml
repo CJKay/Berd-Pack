@@ -83,3 +83,7 @@ metafile = true
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
 metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+metafile = true
