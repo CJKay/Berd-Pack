@@ -1,3 +1,12 @@
+## [2.3.0](https://github.com/CJKay/Berd-Pack/compare/v2.2.0...v2.3.0) (2023-03-27)
+
+
+### Features
+
+* **mods:** add Just Enough Items (JEI) ([f981216](https://github.com/CJKay/Berd-Pack/commit/f9812168203caab1bd3caf442e691cfbec52e60f))
+* **mods:** add Just Enough Professions (JEP) ([e97c0f3](https://github.com/CJKay/Berd-Pack/commit/e97c0f35839af6a4c3fe69bed7d302721d9ecd7a))
+* **mods:** add Just Enough Resources (JER) ([64fced0](https://github.com/CJKay/Berd-Pack/commit/64fced093a30762ffba80fe4ce23e7d61241ff09))
+
 ## [2.2.0](https://github.com/CJKay/Berd-Pack/compare/v2.1.13...v2.2.0) (2023-03-27)
 
 
