@@ -57,6 +57,10 @@ file = "mods/just-enough-professions-jep.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/just-enough-resources-jer.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/lazy-dfu-forge.pw.toml"
 metafile = true
 
